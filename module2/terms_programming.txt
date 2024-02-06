@@ -1,0 +1,14 @@
+
+- return value: is the value or variable returned as the result of a function
+- parameter (argument): a value passed into a function for use within the function
+- refactoring code: a process of restructure code without changing functionality
+  
+	Knowledge:
+  	- def() keyword is used to define a new function. 
+ 	- Best practices:
+	  - create a reusable function: replace duplicate code with one reusable function to make the code easier to read and repurpose 
+	  - Refactor code: update code so that it is self-documenting and the intent of the code is clear
+   	  - Add comments: adding comments is part of creating self-documenting code.
+
+
+Branching is the process of altering the execution sequence of a programme. 
